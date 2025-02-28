@@ -1,6 +1,8 @@
 ---
 title: This is a demo for an editable static site
-subtitle: It started as a coffee company template
+subtitle: Go to https://editable-static-decap-cms-demo.netlify.app/admin/ and
+  log in as "razzi@abuissa.net" with password "demo" to look around the admin.
+  Go ahead and edit :)
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
